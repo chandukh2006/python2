@@ -6,7 +6,7 @@ The **Robo Speaker** is a simple Python application that converts text input int
 
 ## Features
 
-- Continuous input prompt: The program continuously asks for text input from the user.
+- Continuous input prompt: The program continuously asks for text input from the user
 - Text-to-Speech conversion: Converts the user's text input into speech.
 - Exit functionality: The user can exit the program by typing 'q', at which point the program says "bye bye friend" and terminates.
 
